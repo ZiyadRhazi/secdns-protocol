@@ -9,7 +9,6 @@ This project implements both:
 - `secdns-server.py` — The SECDNS authoritative server
 - `secdns-resolver.py` — The SECDNS client resolver
 
-The system was developed as part of **CSC 4308 – Challenge II** under the supervision of **Dr. Omar Iraqi**.
 
 ---
 
